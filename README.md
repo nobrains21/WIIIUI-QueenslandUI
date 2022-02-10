@@ -10,8 +10,9 @@ This is what the end result looks like:
 ![queen1](https://user-images.githubusercontent.com/59528934/153421022-9091ad86-96af-45a0-bcb4-651133f23903.png)
  
 # Installation
-- Download the whole thing and unpack it somewhere;
-- Move the custom1 folder in to **Interface\AddOns\WIIIUI\art**;
+- Click on the green "Code" button and choose "Download Zip";
+- Download and unpack archive. Go inside of it and find **custom1** folder.
+- Move the custom1 folder in to **\World of Warcraft\Interface\AddOns\WIIIUI\art**;
 - Open addon menu in game and click on the Custom1 button to apply it;
  
 In case you already have custom skins installed - change folder's name from **custom1** to **custom#**, where **#** is a number from 2-8, which is not currently used.
