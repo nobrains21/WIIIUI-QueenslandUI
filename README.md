@@ -22,4 +22,4 @@ Feel free to bash me for leaving some unfinished stuff here and there.
 #Known issues:
 - the long middle bar is a bit wonky - its just is. It overlaps with itself in a way my small brain cannot predict/understand. Sorry.
 - there is a gap between the Lid and most right side of the chat-field. No idea why.
-- there are white dots here and there, especialy at places i edited. In some cases i managed to get it crispy clear, but not everywhere. Sorry.
+- there are white dots here and there, especialy at places i edited. In some cases i managed to get it crispy clear, but not everywhere. I need to up my MS-PAint skills. Sorry.
