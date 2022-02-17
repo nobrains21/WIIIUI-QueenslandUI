@@ -21,5 +21,5 @@ In case you already have custom skins installed - change folder's name from **cu
 Feel free to bash me for leaving some unfinished stuff here and there. 
  
 # Known issues:
-- the long middle bar is a bit wonky - its just is. It overlaps with itself in a way my small brain cannot predict/understand. Sorry.
+- the long middle bar is a bit wonky - its just is. It overlaps with itself and its hard to make it look good and align properly with itself when its all artsy like that. Sorry.
 - there are white dots here and there, especialy at places i edited. In some cases i managed to get it crispy clear, but not everywhere. I need to up my MS-PAint skills. Sorry.
