@@ -7,7 +7,7 @@ Skin is based on QueenslandUI, made by [i3lackdeath](https://www.hiveworkshop.co
 All credits for the art i used to make this skin should go to him. I own none of it and will remove this if promted.
 ___
 This is what the end result looks like:
-![queen1](https://user-images.githubusercontent.com/59528934/153421022-9091ad86-96af-45a0-bcb4-651133f23903.png)
+![queen1](https://user-images.githubusercontent.com/59528934/154421676-c31126d6-c568-435e-ab33-56e5c1c2ca3a.png)
  
 # Installation
 - Download [WIIIUI Addon](https://github.com/Fiurs-Hearth/WIIIUI) and install it;
@@ -22,5 +22,4 @@ Feel free to bash me for leaving some unfinished stuff here and there.
  
 # Known issues:
 - the long middle bar is a bit wonky - its just is. It overlaps with itself in a way my small brain cannot predict/understand. Sorry.
-- there is a gap between the Lid and most right side of the chat-field. No idea why.
 - there are white dots here and there, especialy at places i edited. In some cases i managed to get it crispy clear, but not everywhere. I need to up my MS-PAint skills. Sorry.
